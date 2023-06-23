@@ -78,6 +78,12 @@ button {
 	border-radius: 10px;
 	box-shadow: 1px #0000;
 	box-shadow: rgb(100 100 111 / 20%) 0px 7px 29px 0px;}
+	button:hover{
+		color: #fff;
+		background-color: aqua;
+		outline: #023de3;
+		border: 2px solid  #86b7fe;
+	}
 	
  
 	
